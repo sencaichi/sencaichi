@@ -1,6 +1,18 @@
-<script src=“https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js”></script><lottie-player src=“https://lottie.host/5014952e-95b5-4698-8fd2-0d62890c9b7d/mtIHRF9h2i.json” background=“#fff” speed=“1” style=“width: 300px; height: 300px” loop controls autoplay direction=“1” mode=“normal”></lottie-player>
+<h1 align="left"> hello! 🧞‍♂️ </h1>
+<div align='left'>
+  <img width="492" alt="GIF" align="left" src="https://i.pinimg.com/originals/54/98/5f/54985f0758900d94a8ac3fa3ef306418.gif">
+</div>
+<br><br><br><br><br><br><br><br><br><br><br>
+<div align="left">
+<h1 align="left">  about me  </h1>
 
-### Hi there 👋
+### working on:
+✨ iOS App Development<br>
+✨ Open-source Software<br>
+✨ HealthTech<br>
+✨ Graphic Designing<br>
+✨ Data Structures and Algorithms<br>
+</div>
 
 <!--
 **sencaichi/sencaichi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
