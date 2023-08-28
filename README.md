@@ -2,7 +2,7 @@
 <div align='left'>
   <img width="492" alt="GIF" align="left" src="https://i.pinimg.com/originals/54/98/5f/54985f0758900d94a8ac3fa3ef306418.gif">
 </div>
-<br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br>
 <div align="left">
 <h1 align="left">  about me  </h1>
 
